@@ -1,4 +1,6 @@
-# ITL Houses
+This branch preserves the v1 release of ITL Houses (aka Improved Town Layouts). It is compatible with the v1 release of [Improved Town Industries](https://github.com/erazortt/improved_town_industries/tree/v1).
+
+# ITL Houses (aka Improved Town Layouts)
 
 ![Photo credit: Kale on Discord](docs/itl_kale.png)
 _Photo credit: Kale on Discord_
